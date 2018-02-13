@@ -1,1 +1,3 @@
 # Predicting-the-Quality-of-Bordeaux-Wines
+
+Bordeaux wines are widely believed to taste better when they are older, so there's an incentive to store young wines until they are mature. The main problem is that it is hard to determine the quality of the wine when it is so young just by tasting it, since the taste will change so significantly by the time it will actually be consumed. This is why wine tasters and experts are helpful. They taste the wines and then predict which ones will be the best wines later. The question we'll address in this lecture-- can analytics model this process better and make stronger predictions?
